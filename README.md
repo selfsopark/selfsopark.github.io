@@ -1,7 +1,7 @@
 # So-Jeong Park | 박소정 | 朴素晶
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selfsopark/selfsopark.github.io/refs/heads/master/profile.png" />
+  <img src="https://raw.githubusercontent.com/selfsopark/selfsopark.github.io/refs/heads/master/profile.png" width="200"/>
 </p>
 
 Welcome to my website!
