@@ -1,8 +1,6 @@
 # So-Jeong Park | 박소정 | 朴素晶
 
-<p align="center">
-  ![profile picture](profile.png)
-</p>
+![profile picture](./profile.png)
 
 Welcome to my website!
 
